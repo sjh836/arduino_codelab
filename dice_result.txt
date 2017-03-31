@@ -1,0 +1,78 @@
+2016-03-30 16:22:33	Name: LEE, JungHoon
+2016-03-30 16:22:33	Student ID: 2012335054
+2016-03-30 16:22:33	<<< DICE GAME >>>
+2016-03-30 16:22:37	press the button
+2016-03-30 16:22:37	Button ON!
+2016-03-30 16:22:37	Roll the dice
+2016-03-30 16:22:37	dice: 5
+2016-03-30 16:22:37	turn on 5 light(s)
+2016-03-30 16:22:39	wait for 2sec
+2016-03-30 16:22:39	All LED OFF
+2016-03-30 16:22:39	All LED blink
+2016-03-30 16:22:39	wait for 0.5sec
+2016-03-30 16:22:40	wait for 0.5sec
+2016-03-30 16:22:40	wait for 0.5sec
+2016-03-30 16:22:41	wait for 0.5sec
+2016-03-30 16:22:41	wait for 0.5sec
+2016-03-30 16:22:42	wait for 0.5sec
+2016-03-30 16:22:44	Next Turn!!
+
+2016-03-30 16:22:44	Button ON!
+2016-03-30 16:22:44	Roll the dice
+2016-03-30 16:22:44	dice: 1
+2016-03-30 16:22:44	turn on 1 light(s)
+2016-03-30 16:22:46	wait for 2sec
+2016-03-30 16:22:46	All LED OFF
+2016-03-30 16:22:46	All LED blink
+2016-03-30 16:22:47	wait for 0.5sec
+2016-03-30 16:22:47	wait for 0.5sec
+2016-03-30 16:22:48	wait for 0.5sec
+2016-03-30 16:22:48	wait for 0.5sec
+2016-03-30 16:22:48	wait for 0.5sec
+2016-03-30 16:22:49	wait for 0.5sec
+2016-03-30 16:22:50	Next Turn!!
+
+2016-03-30 16:22:50	Button ON!
+2016-03-30 16:22:50	Roll the dice
+2016-03-30 16:22:50	dice: 6
+2016-03-30 16:22:50	turn on 6 light(s)
+2016-03-30 16:22:52	wait for 2sec
+2016-03-30 16:22:53	All LED OFF
+2016-03-30 16:22:53	All LED blink
+2016-03-30 16:22:53	wait for 0.5sec
+2016-03-30 16:22:54	wait for 0.5sec
+2016-03-30 16:22:54	wait for 0.5sec
+2016-03-30 16:22:55	wait for 0.5sec
+2016-03-30 16:22:55	wait for 0.5sec
+2016-03-30 16:22:55	wait for 0.5sec
+2016-03-30 16:22:57	Next Turn!!
+
+2016-03-30 16:22:57	Button ON!
+2016-03-30 16:22:57	Roll the dice
+2016-03-30 16:22:57	dice: 6
+2016-03-30 16:22:57	turn on 6 light(s)
+2016-03-30 16:22:59	wait for 2sec
+2016-03-30 16:22:59	All LED OFF
+2016-03-30 16:22:59	All LED blink
+2016-03-30 16:23:00	wait for 0.5sec
+2016-03-30 16:23:00	wait for 0.5sec
+2016-03-30 16:23:01	wait for 0.5sec
+2016-03-30 16:23:01	wait for 0.5sec
+2016-03-30 16:23:02	wait for 0.5sec
+2016-03-30 16:23:02	wait for 0.5sec
+2016-03-30 16:23:03	Next Turn!!
+
+2016-03-30 16:23:03	Button ON!
+2016-03-30 16:23:03	Roll the dice
+2016-03-30 16:23:03	dice: 1
+2016-03-30 16:23:03	turn on 1 light(s)
+2016-03-30 16:23:05	wait for 2sec
+2016-03-30 16:23:06	All LED OFF
+2016-03-30 16:23:06	All LED blink
+2016-03-30 16:23:06	wait for 0.5sec
+2016-03-30 16:23:07	wait for 0.5sec
+2016-03-30 16:23:07	wait for 0.5sec
+2016-03-30 16:23:08	wait for 0.5sec
+2016-03-30 16:23:08	wait for 0.5sec
+2016-03-30 16:23:09	wait for 0.5sec
+2016-03-30 16:23:10	Next Turn!!

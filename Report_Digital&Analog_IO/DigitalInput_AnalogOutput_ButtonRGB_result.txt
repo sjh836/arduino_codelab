@@ -1,0 +1,36 @@
+2016-05-13 14:58:51	                                
+2016-05-13 14:58:51	Case 2. digital input -> analog output
+2016-05-13 14:58:51	<<< RGB LED: this can make all the colors >>>
+2016-05-13 14:58:53	press the button
+2016-05-13 14:58:55	red: 25	green: 0	blue: 0
+2016-05-13 14:58:56	red: 50	green: 0	blue: 0
+2016-05-13 14:58:57	red: 75	green: 0	blue: 0
+2016-05-13 14:58:58	red: 100	green: 0	blue: 0
+2016-05-13 14:58:59	red: 100	green: 25	blue: 0
+2016-05-13 14:59:02	red: 100	green: 50	blue: 0
+2016-05-13 14:59:07	red: 100	green: 50	blue: 25
+2016-05-13 14:59:08	button interval: 50
+2016-05-13 14:59:09	red: 150	green: 50	blue: 25
+2016-05-13 14:59:10	red: 150	green: 100	blue: 25
+2016-05-13 14:59:13	red: 150	green: 100	blue: 75
+2016-05-13 14:59:14	button interval: 100
+2016-05-13 14:59:16	red: 250	green: 100	blue: 75
+2016-05-13 14:59:17	red: 0	green: 100	blue: 75
+2016-05-13 14:59:19	red: 0	green: 200	blue: 75
+2016-05-13 14:59:20	red: 0	green: 200	blue: 175
+2016-05-13 14:59:21	red: 0	green: 200	blue: 0
+2016-05-13 14:59:27	red: 0	green: 0	blue: 0
+2016-05-13 14:59:28	button interval: 255
+2016-05-13 14:59:29	red: 255	green: 0	blue: 0
+2016-05-13 14:59:30	red: 255	green: 255	blue: 0
+2016-05-13 14:59:33	red: 255	green: 255	blue: 255
+2016-05-13 14:59:33	red: 0	green: 255	blue: 255
+2016-05-13 14:59:34	red: 0	green: 0	blue: 255
+2016-05-13 14:59:43	red: 0	green: 0	blue: 0
+2016-05-13 14:59:45	button interval: 100
+2016-05-13 14:59:46	red: 100	green: 0	blue: 0
+2016-05-13 14:59:47	red: 100	green: 100	blue: 0
+2016-05-13 14:59:47	red: 100	green: 100	blue: 100
+2016-05-13 14:59:48	red: 100	green: 100	blue: 200
+2016-05-13 14:59:48	red: 100	green: 200	blue: 200
+2016-05-13 14:59:53	red: 200	green: 200	blue: 200

@@ -1,0 +1,11 @@
+2016-05-30 21:17:52	Case 1.
+2016-05-30 21:17:52	<<< RGB LED: Smartphone application can make all the colors >>>
+2016-05-30 21:18:11	Input the RGB value through bluetooth
+2016-05-30 21:18:22	red: 255	green: 0	blue: 0
+2016-05-30 21:18:29	red: 255	green: 94	blue: 0
+2016-05-30 21:18:36	red: 127	green: 127	blue: 0
+2016-05-30 21:18:40	red: 0	green: 255	blue: 0
+2016-05-30 21:18:47	red: 0	green: 0	blue: 255
+2016-05-30 21:18:53	red: 127	green: 0	blue: 127
+2016-05-30 21:19:00	red: 255	green: 255	blue: 255
+2016-05-30 21:19:07	red: 0	green: 0	blue: 0

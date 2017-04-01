@@ -1,8 +1,13 @@
 # 아두이노 코드랩
 
 ## 실습환경
-* 아두이노 보드: UNO 보드
-* 아두이노 IDE: ARDUINO 1.6.8, processing 2.2.1
+* 아두이노 보드 : UNO 보드
+* 아두이노 IDE : ARDUINO 1.6.8, processing 2.2.1
+* app inventor : http://ai2.appinventor.mit.edu
+
+## 리포트
+* Digital IO, Analog IO : https://www.slideshare.net/JungHoonLee41/digitalanalog-io
+* bluetooth 통신 : https://www.slideshare.net/JungHoonLee41/bluetooth-74143295
 
 ## 인터넷을 이용한 아두이노 시뮬레이션
 링크: https://circuits.io/
